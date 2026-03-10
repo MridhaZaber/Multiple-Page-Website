@@ -141,3 +141,51 @@ main{
     color: gray;
     margin-top: 10px;
 }
+
+#previous-nex-parent{
+    display: flex;
+    justify-content: space-between;
+    margin-top:100px ;
+}
+
+#previous-nex-parent h3 a{
+    text-decoration: none;
+    color: white;
+}
+
+.next-parent-number{
+    display: flex;
+    
+}
+.next-parent-number h5{
+    background-color: #fff;
+   
+    margin-right: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+.next-parent-number h5:hover{
+    background-color: #04AA60;
+    color: white;
+
+}
+
+#previous-nex-parent h3 a{
+    
+    background-color: #04AA60;
+    padding: 10px 8px;
+    border-radius: 5px;
+
+
+
+
+}
+
+#previous-nex-parent h3 a span{
+    margin: 0 5px;
+    font-size: 20px;
+   
+}
+    
