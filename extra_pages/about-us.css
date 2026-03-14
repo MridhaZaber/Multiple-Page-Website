@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    width: 700px;
+    margin: auto;
+    border:3px solid red;
+    padding-bottom: 50px;
+    padding-top: 50px;
+    margin-top:50px ;
+    box-shadow: 5px 5px 5px 5px gray;
+
+}
+
+.text-div{
+    display: flex;
+    justify-content: space-between;
+}
+.text-div img{
+    width: 200px;
+    height: 300px;
+   
+    margin-right: 30px;
+    width: 400px;
+}
+
+.text-div2{
+    padding-top:100px ;
+    padding-left: 50px;
+    color: blue;
+    
+}
+.text-div h1{
+    font-weight: bold;
+}
+.text-div2 input{
+   
+    margin-top:30px ;
+    background-color: blue;
+    color: white;
+
+    padding: 10px 10px;
+    border-radius: 5px;
+}
